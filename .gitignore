@@ -130,3 +130,10 @@ dmypy.json
 
 #vscode
 .vscode/
+
+# files
+indented_db.json
+db.json
+
+# migrations
+anfisa_for_friends/ice_cream/migrations
